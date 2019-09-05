@@ -1,2 +1,2 @@
 # clase2
-ejercicio para crear un repositorio nuevo
+##ejercicio para crear un repositorio nuevo
